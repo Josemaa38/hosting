@@ -1,0 +1,184 @@
+  <html>
+        <head>
+                <title> Fulanito y Menganita</title>
+        </head>
+        <body>
+        <a name="top"></a>
+        <a href="mailto:pancho.prosa@gmail.com">Preguntas aquí</a></br>
+        <a href="/home/josrod/Baixades/Video1.docx">Descargar documento</a></br>
+     <a href="https://www.amazon.es/?&tag=hydesnav-21&ref=pd_sl_781oit2196_e&adgrpid=152290669839&hvpone=&hvptwo=&hvadid=672291362554&hvpos=&hvnetw=g&hvrand=3992043550497985402&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9221642&hvtargid=kwd-10573980&hydadcr=4855_2227860" title="Amazon" target="_blank">Comprar</a><br/>
+  <a href="https://lichess.org/" title="Ajedrez" target="_self">Juega ajedrez</a></br>
+  <a href="http://www.google.com/" target="_parent" >Google </a></br>
+  <a href="https://www.ua.es/" target="_top" >Ua </a></br>
+ <p><font size="5">Índice</font></p>
+ <a href="#punto1">Punto1</a></br>
+  <a href="#punto2">Punto2</a></br>
+  <a href="#punto3">Punto3</a></br>
+  <a href="#punto4">Punto4</a></br>
+  <a href="#punto5">Punto5</a></br>
+  <a href="#punto6">Punto6</a></br>
+  <a href="#punto7">Punto7</a></br>
+  <a href="#punto8">Punto8</a></br>
+  <a href="#punto9">Punto9</a></br>
+  <a href="#punto10">Punto10</a></br>
+  <a name="punto1"></a>
+  <img alt="switch2" src="/home/josrod/Baixades/switch2.jpeg" width="480" height="300" align="right" />
+  <a href="https://www.ua.es/" tittle="UA" > <img alt="N2" src="/home/josrod/Baixades/switch2.jpeg"></a>
+  <h2 align="center" title="Soy un titulo"><font color="#F60">1  ¿QUÉ ES LA IA?</font></h2>
+
+
+<p>La IA es algo que ha estado presente en los últimos años y que está en nuestro día a día, y sigue evolucionando constantemente. Algunos le temen a este cambio, pero la verdad es que no sabemos hasta que punto la IA será capaz de llegar. La inteligencia artificial está presente actualmente en todo lo que maneje cierta cantidad de datos.</p>
+<p>La Inteligencia Artificial como campo de estudio, debe sus fundamentos a distintas ramas de la ciencia, así, se han ido tomando diferentes referentes desde la filosofía, la matemática, la psicología, la lingüística y las ciencias de la computación, las cuales han modelado con sus aportes las características generales de la técnicas utilizadas para la representación y procesamiento del conocimiento.[Arrestegui, Luis Barrera] </p>
+         1.1  HISTORIA<br/>
+<p>El término de inteligencia artificial fue acuñado por John McCarthy, en la conferencia de Dartmouth, en 1956.<br/>
+Tras esta conferencia, llegó lo que se conoce como en invierno de la IA, que duró hasta principios del siglo XXI. Época en la que hubo grandes avances, sobretodo en la potencia de los ordenadores, haciéndolos más rápidos.</p>
+<a href="#top">Ir al principio</a></br>
+<a name="punto2"></a>
+     2  APRENDIZAJE SUPERVISADO</br>
+<p>El lenguaje supervisado constituye un algoritmo de aprendizaje basado en ejemplos donde el nuevo conocimiento es inducido a partir de una serie de ejemplos y contraejemplos.[Arteaga, Humberto Chaviano]</br>
+         2.1  PRIMERA IA
+<p>La IA necesita aprender para funcionar, esto lo hace mediante neuronas artificiales. Al principio la IA contesta una respuesta al azar a tu pregunta, y el humano le dice cuando ha acertado y cuando no, es lo que se llama aprendizaje supervisado, si el humano dice que se ha equivocado, la IA modifica lo aprendido. De esta manera, la IA va aprendiendo y cada vez ofrece resultados más precisos. La primera IA se llamaba Perceptrón, creada en 1958 y diferenciaba lo que era un triángulo y lo que no.</p>
+
+         2.2  COMO FUNCIONAN
+<p>Las IAs, utilizan diferentes parámetros para clasificar los resultados, mediante unas ecuaciones, deciden en que clasificación van. Cuantos más parámetros tenga la IA para analizar, más completa será la ecuación y por tanto será más precisa.</p>
+<a href="#top">Ir al principio</a></br>
+<a name="punto3"></a>
+     3  REDES NEURONALES Y APRENDIZAJE SUPERVISADO
+         3.1  RED NEURONAL
+<p>La IA emplea una red neuronal, que son muchas neuronas, para clasificar las imágenes en diferentes categorías. De esta red, cada neurona busca en la imagen un rasgo en específico y le asigna un valor.</p>
+https://www.youtube.com/watch?v=M6oDiCQCins
+
+
+https://www.youtube.com/watch?v=Q7kdkp-lSa0
+
+<p>Una red neuronal artificial es un entramado o estructura formada por nodos o neuronas, que se conectan entre sí y tienen la capacidad de recibir datos de entrada y producir una salida. Las distintas redes neuronales propuestas en el presente trabajo presentan tres capas de neuronas con propagación de la información hacia adelante, están compuestas por una capa de entrada cuyas neuronas son Ei (en la presente aplicación, en cada una de las cuales ingresan los parámetros como temperatura, humedad, etc.), una capa de neuronas ocultas Oj (capa de unidades de procesamiento), cuyo número de neuronas no necesariamente es igual al de la capa de entrada, y una capa de neuronas de salida, Si , que codifican el resultado del cálculo (en esta aplicación conformada por una sola neurona que indica la decisión de helada o no). La cantidad de neuronas de la capa de salida depende del problema a resolver.[Ovando, G., Bocco, M., & Sayago, S.]</p>
+
+             3.1.1  EJEMPLO
+<p>Tras varias capas ocultas, la IA genera un número entre 0 y 1 en alguna categoría en específico. Por ejemplo 0.87 en coche, esto significa que hay 87% de posibilidades de que sea un coche.</p>
+         3.2  APRENDIZAJE SUPERVISADO
+<p>Consiste en que la IA aprende en función a si el humano le dice que ha contestado correcta o erróneamente.</p>
+<a href="#top">Ir al principio</a></br>
+<a name="punto4"></a>
+     4  ENTRENENDO REDES NEURONALES
+         4.1  COMO SE FORMAN
+<p>Las redes neuronales constan de dos cosas, la estructura, que comprende las diferentes neuronas y sus conexiones, y los pesos, que son las ecuaciones entre diferentes neuronas.</p>
+
+<p>Una red de neuronas artificiales puede aprender en dos fases: en la fase de entrenamiento y en la fase de ejecución. La más importante, es la primera, ya que dependiendo del conjunto de ejemplos que tenga, podrá resolver los problemas planteados.[Delgado, M.]
+La red debe ser entrenada, y por tanto se le introducen datos de un suceso pasado para ver que resultado proporciona, después de esto, la diferencia entre el resultado de la IA y la realidad es el error. Una vez determinado el error, la IA ajusta sus pesos para tratar de acercarse más a la realidad, esto se llama retropropagación y afecta a las neuronas que contribuyeron al error.
+https://www.youtube.com/watch?v=ScVpPS_CFYc</p>
+
+
+         4.2  ERROR MÍNIMO Y RELATIVO
+<p>De esta forma, la IA es entrenada para dar predicciones lo más precisas posibles. Por otro lado, puede que la red llegue a un error menor pero no al error más bajo, por eso es mejor usar una gran cantidad de ejemplos para que la red pueda llegar al mínimo error real.</p>
+<a href="#top">Ir al principio</a>
+<a name="punto5"></a></br>
+     5  COMO HACER A LA IA LEER
+         5.1  PASOS
+<p>Para crear una IA que reconozca imágenes hay unos pasos a seguir.</p>
+             5.1.1  PRIMERO
+<p>Hay que buscar/crear una biblioteca con datos etiquetados que nuestra IA pueda usar como ejemplo, a modo de entrenamiento. Estos datos etiquetados los dividimos en dos, un grupo para entrenar la red neuronal, y el otro para examinarla y ver si ha aprendido.</p>
+https://www.youtube.com/watch?v=RFq2FwO1iQo
+             5.1.2  SEGUNDO
+<p>Crear una red neuronal, con sus distintas capas ocultas, sus conexiones y sus pesos.
+La organizacióny disposición de las neuronas dentra de una red neuronal se denomina topología, y viene dada por el número de capas, la cantidad de neuronas por capa, el grado de conectividad, y el tipo de conexión entre neuronas. Las neuronas suelen agruparse en unidades funcionales denominadas capas.[Bertona, L.]</p>
+             5.1.3  TERCERO
+<p>Entrenar, testear y modificar el código para que la red neuronal sea más precisa.</p>
+             5.1.4  CUARTO
+<p>Por último, escanear las imágenes que hay que clasificar. La red neuronal la pondrá en la categoría con la que tenga más similitudes.</p>
+         5.2  PROBLEMAS QUE PUEDEN SURGIR
+<p>Durante este proceso, puede haber algunos problemas, como que las imágenes a clasificar tengan una resolución demasiado alta en comparación con la biblioteca de imágenes, por lo que hay que reducirla. También puede pasar que haya que invertir los colores de nuestras imágenes por que en la biblioteca las letras son de color blanco sobre fondo negro. Al modificar esto, la IA debería poder categorizar las imágenes.</p>
+<a href="#top">Ir al principio</a></br>
+<a name="punto6"></a>
+     6  APRENDIZAJE NO SUPERVISADO
+<p>Otra forma en la que puede aprender una IA es el aprendizaje no supervisado, que se basa en la observación del mundo real e imitarlo. La IA observa ciertas características de lo que tenga que analizar y las pone en una gráfica, después las agrupa y le da una categoría a cada una.
+Hoy en día se generan grandes cantidades de datos en el Internet, datos de distintos tipos y con diferentes objetivos. Para esto se necesitan de algoritmos de agrupación que nos permitan identificar los distintos grupos y características de estos grupos, de forma automática sin conocimiento previo.[Santisteban Pablo, Julio Omar]</p>
+
+
+https://www.youtube.com/watch?v=NyhnBI2aJmQ
+<p>La IA debe ser capaz de decir si dos imágenes son similares, y esto lo hace buscando patrones, es lo que se llama aprendizaje de representación. Esto lo hace la IA, por ejemplo, al querer representar una imagen que ha visto y según la observación entre la imagen original y su dibujo, la IA es capaz de ajustar parámetros para ser más precisa la próxima vez. El aprendizaje noAprendizaje por refuerzo en sistemas robóticos supervisado es muy poderoso porque el mundo es el maestro y la IA puede aprender por sí sola.</p>
+<a href="#top">Ir al principio</a></br>
+<a name="punto7"></a>
+
+     7  PROCESAMIENTO DEL LENGUAJE NATURAL
+<p>Por Procesamiento de Lenguaje Natural (PLN, denominado también NLP por sus siglas en inglés) se entiende la habilidad de la máquina para procesar la información comunicada, no simplemente las letras o los sonidos del lenguaje.[Gelbukh, Alexander]</p>
+Las IA, además de clasificar imágenes también puede trabajar con letras y palabras. La IA es capaz de ver si varias palabras tienen relación comparando sus letras, pero también puede hacerlo comparando las palabras que aparecen en sus definiciones.</p>
+         7.1  CODIFICADOR-DECODIFICADOR
+<p>Además, la IA es capaz, mediante un codificador, de guardar la información de la oración que está siendo escrita, y el decodificador de usar esa información para predecir la siguiente palabra. Mediante varias capas ocultas, la IA presenta la palabra que más porcentaje de posibilidades tiene de aparecer tras las capas ocultas.</p>
+https://www.youtube.com/watch?v=Q7kdkp-lSa0</br>
+<a href="#top">Ir al principio</a></br>
+<a name="punto8"></a>
+
+     8  COMO HACER QUE UNA IA SUENE COMO UN YOUTUBER
+<p>La comunicación es el proceso por el cual dos o más individuos comparten un mensaje.[Chaves, A. T.]</p>
+La IA es capaz de conversar y ofrecer respuestas a los humanos. Para esto, hay que crear la IA siguiendo estos pasos:
+         8.1  PASOS
+             8.1.1  Recopilar y limpiar los datos.
+<p>En este paso hay que dividir la frase o pregunta que se le dice a la IA en tokens léxicos, que es dividirla en palabras, puntos, comas... Todo separado. Una vez hecho esto, la IA busca patrones, pero cuando hay muchas palabras que solo aparecen una vez es más complicado para la IA. Por esto, se clasifican estas palabras como desconocidos, porque no son tan importantes para la IA. La información ya está limpia.</p>
+             8.1.2  Configurar el modelo.
+<p>Ahora hay que configurar el modelo, por lo que hay que asignarle a cada token un valor numérico.</p>
+
+<p>Después, estos datos se meten en una matriz de incrustación, donde las palabras con significado parecido tendrán valores similares. Ahora, la red neuronal recurrente (RNN), utiliza esos valores y capas ocultas para hacer predicciones.</p>
+https://www.youtube.com/watch?v=Gafjk7_w1i8
+
+             8.1.3  Entrenar el modelo.
+<p>Para esto, la IA utiliza el texto como ejemplo así que cada vez aumenta su precisión y se da cuenta de que hay menos opciones posibles. Además, disminuye la perplejidad, que es la cantidad de opciones que la IA de como válidas.</p>
+
+             8.1.4  Hacer predicciones.
+<p>En este punto, la IA ya debería ser capaz de hacer predicciones, pero hay 1 problema.
+Que debido a que suprimimos todas las palabras que aparecen solo una vez, la IA tiene poco vocabulario. Esto se soluciona introduciendo un enlace a algún diccionario para que la IA entienda la palabra.</p>
+<a href="#top">Ir al principio</a></br>
+<a name="punto9"></a>
+
+     9  APRENDIZAJE POR REFUERZO
+<p>El aprendizaje por refuerzo trata el aprendizaje de unas buenas acciones a base de la experiencia y de las recompensas recibidas por el entorno que indican cuándo un comportamiento ante una situación concreta es buena o mala, y en base a esto poder tomar una decisión beneficiosa.[Rudkowskyj Hernanz, Sandra]</p>
+         9.1  PARA QUE SIRVE
+<p>Además del aprendizaje supervisado y el no supervisado, tenemos el aprendizaje por refuerzo, que es especialmente útil para acciones que son difíciles de explicar, como caminar.</p>
+
+<p>El aprendizaje por refuerzo consiste en dejar a la IA explorar y en el momento que logre lo que queríamos la “felicitamos”.</p>
+https://www.youtube.com/watch?v=s43-nM6oNhI
+         9.2  SIN MODELO
+<p>El aprendizaje por refuerzo sin modelo puede resolver con éxito varias tareas, como jugar videojuegos y resolver tareas robóticas, pero requiere muchas muestras para lograr un buen rendimiento.[Huang, Q.]</p>
+         9.3  COMO FUNCIONA
+<p>Aunque esto tiene algunos inconvenientes, como que es difícil decir que acciones que ha realizado la IA ayudan a cumplir el objetivo y cuales lo entorpecen, esto es lo que se llama asignación de créditos, y se hace para optimizar el trabajo de la IA.</p>
+             9.3.1  EXPLORACIÓN Y EXPLOTACIÓN
+<p>Una IA quiere ir de punto A al B. La IA tiene un Estado, que es como se encuentra en una posición. Después la IA encuentra un camino, la IA podría hacer siempre este camino, asegurándose llegar al destino (explotación), o podría buscar un camino más corto (exploración). Al acabar, si pusiéramos a la IA que ha explorado a competir con una que no, veríamos que la exploradora tiene un mejor camino porque es la que llega antes a la recompensa.</p>
+<a href="#top">Ir al principio</a></br>
+<a name="punto10"></a>
+     10  IA SIMBOLICA</br>
+         10.1  ¿Que es?
+<p>Las redes neuronales entrenan el modelo con gran cantidad de datos, en cambio, la IA simbólica es muy diferente, porque no necesita ni entrenamiento ni gran cantidad de datos. Además, se utilizan preposiciones para unir esas ideas, y de esta manera poder hacer preguntas.
+Inteligencia Artificial simbólica, la cual se caracteriza por un alto nivel de abstracción y vista microscópica. A esta categoría pertenecen la sicología clásica, los sistemas basados en el conocimiento, el aprendizaje simbólico de máquina, técnicas de búsqueda, y el procesamiento de lenguaje natural.[Sierra, M]</p>
+         10.2  ¿Como funciona?
+<p>La IA simbólica representa los problemas usando símbolos y luego la lógica para resolverlos. Después, la IA utiliza una base de conocimiento para interpretar esos símbolos.
+             10.2.1  ¿Que son los símbolos?
+<p>Los símbolos son los sustantivos de una pregunta, y las relaciones son los adjetivos y verbos que los unen, de esta manera, la IA utiliza la lógica y con la oración «comer(Pancho,salchipapa)», la IA entiende que Pancho come salchipapa.</p>
+             10.2.2  ¿Que son las preposiciones?
+<p>Las preposiciones son palabras que se utilizan para unir ideas. De esta manera se pueden hacer preguntas con «y», en las cuales las dos ideas deben ser verdaderas y preguntas con «o», en las que solamente se debe cumplir una para respuesta afirmativa. Estos conectores se colocan en una tabla de verdad.</p>
+<a href="#top">Ir al principio</a></br>
+
+
+<ol start="2" type="A">
+        <li>Encontrar trabajo</li>
+        <li>Comprar pan</li>
+        <li>Recoger el coche</li>
+</ol>
+
+<ul type="square">
+        <li>pan</li>
+        <li>patatas</li>
+        <li>papel</li>
+</ul>
+<del>Pancho</del><br/>
+<p><font face="Arial">Brawl stars</font><p>
+
+<font size="7"><font color="#C69">Hola</font></br>
+<p><font size="3"><b>Escribe aquí </b> </font></p>
+<p> &lt &gt</p>
+
+<font size="7"><p align="center">Avión </p>
+<hr/>
+
+<input type="text" name="my_text_field" />
+<hr/>
+        </body>
+</html>
